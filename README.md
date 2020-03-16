@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Coutinhos/OnlineCV/_apis/build/status/OnlineCV%20-%20CI?branchName=build-pipeline)](https://dev.azure.com/Coutinhos/OnlineCV/_build/latest?definitionId=2&branchName=build-pipeline)
 
 # Contributing
 
