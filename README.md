@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/Coutinhos/OnlineCV/_apis/build/status/OnlineCV%20-%20CI?branchName=build-pipeline)](https://dev.azure.com/Coutinhos/OnlineCV/_build/latest?definitionId=2&branchName=build-pipeline)
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=binte_mslearn-tailspin-spacegame-web)](https://sonarcloud.io/dashboard?id=binte_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
